@@ -1,5 +1,5 @@
-import Banner from './componentes/Banner';
-import Formulario from './componentes/Formulario';
+import Banner from "./componentes/Banner";
+import Formulario from "./componentes/Formulario";
 
 function App() {
   return (
@@ -8,6 +8,6 @@ function App() {
       <Formulario />
     </div>
   );
-};
+}
 
 export default App;
